@@ -1,37 +1,27 @@
-# Mejalengka-Tech
+# Majalengka Tech
 
-Komunitas open-source developer Majalengka.
+Komunitas open-source developer dan desainer Majalengka.
 
-## Tujuan
-
-Mejalengka-Tech adalah organisasi kolaboratif untuk membangun perangkat lunak,
-design system, data, dan solusi digital yang terbuka, terdokumentasi,
-serta dapat digunakan oleh masyarakat dan pemerintah.
-
-## Fokus
-
-- Open-source software
-- Design system untuk layanan publik
-- Dokumentasi teknologi
-- Literasi digital
-- Kolaborasi developer Majalengka
-- Solusi digital untuk pemerintah dan masyarakat
-
-## Cara berkontribusi
-
-Kami terbuka untuk kontribusi developer, designer, penulis dokumentasi,
-mahasiswa, komunitas, dan masyarakat umum.
-
-Silakan baca [CONTRIBUTING.md](./CONTRIBUTING.md).
+Kami membangun [majalengka.tech](https://majalengka.tech), tempat developer dan desainer Majalengka memamerkan proyeknya, membangun profil kreator, dan saling memberi apresiasi. Kodenya terbuka dan bisa dipelajari, dipakai, atau diperbaiki siapa saja.
 
 ## Proyek
 
-Proyek-proyek Mejalengka-Tech akan dikembangkan secara terbuka
-di repository organisasi ini.
+- **[majalengka.tech](https://github.com/majalengkatech/majalengka.tech).** Situs showcase proyek dan profil kreator Majalengka. Dibangun dengan Nuxt 4, Nuxt UI, dan Cloudflare. Lisensi MIT.
+- **Majalengka Design System.** Sistem desain untuk komunitas dan kreator Majalengka. Sedang disiapkan dan akan dibuka di organisasi ini.
 
-## Kontak
+## Prinsip
 
-Diskusi dan kolaborasi:
-- GitHub Discussions
-- [Tambahkan link komunikasi]
-- [Tambahkan email organisasi]
+- **Kodenya terbuka.** Siapa saja bisa membaca, memakai, dan memperbaiki kode kami.
+- **Data yang jujur.** Angka yang kami tampilkan dihitung dari data asli. Tidak ada testimoni atau contoh karangan.
+- **Nyaman dipakai siapa saja.** Kontras warna kami cek sesuai standar WCAG AA, dan gambar bisa diberi keterangan untuk pembaca layar.
+- **Gratis untuk kreator.** Memamerkan proyek, membuat profil, memberi apresiasi, dan berkomentar tidak dipungut biaya.
+
+## Siapa yang bisa ikut
+
+Developer, desainer, penulis dokumentasi, mahasiswa, dan siapa pun yang tinggal di Majalengka atau membangun sesuatu untuk Majalengka.
+
+## Cara ikut
+
+1. **Pamerkan proyekmu** di [majalengka.tech](https://majalengka.tech). Daftar gratis.
+2. **Laporkan bug atau usulkan fitur** lewat tab Issues di repositori yang bersangkutan.
+3. **Kirim pull request.** Cara menjalankan kode di komputermu ada di [panduan kontribusi](https://majalengka.tech/docs/kontribusi).
